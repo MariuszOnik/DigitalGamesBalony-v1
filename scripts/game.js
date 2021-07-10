@@ -493,7 +493,7 @@ startX = 377;
     fanfary.loop = false;
 
     poziomTrudnosci = 2; 
-    czasGry = 3330000
+    czasGry = 60000
     wynikGroup = g.group()
 
     homeButton = g.sprite("./img/home.png")
